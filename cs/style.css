@@ -818,6 +818,8 @@ button{
 @media all and (max-width: 1500px){.project__live:hover:after,.project__code:hover:after{transform:scaleY(16.5)}}
 @media all and (max-width: 1200px){.project__live:hover:after,.project__code:hover:after{transform:scaleY(14)}}
 @media all and (max-width: 770px){.project__live:hover:after,.project__code:hover:after{transform:scaleY(12.5)}}
+@media all and (max-width: 770px){.project__live:hover:after,.project__code:hover:after{transform:scaleY(12.5)}}
+
 
 .project__code:after{width:calc(100% + 2rem);left:-8%}.project-left{
     align-self:flex-start;
