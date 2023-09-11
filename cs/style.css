@@ -803,7 +803,7 @@ button{
     content:'';
     border-bottom:2px solid rgba(252, 58, 74);
     width:calc(100% + 2rem);
-    left:-10%;
+    left:10%;
     top:0.5rem;
     display:block;
     margin:0 auto;
